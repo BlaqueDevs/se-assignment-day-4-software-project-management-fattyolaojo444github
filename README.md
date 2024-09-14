@@ -101,7 +101,27 @@ Examples
 Agile Example: A startup developing a new mobile app where user needs are still being discovered, and rapid iterations based on feedback are crucial for success
 Waterfall Example: A government contract for developing a compliance-driven system where all requirements must be documented and approved upfront with minimal changes expected.
 
-## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+## 5. What are some methods for ensuring quality assurance throughout a software project?
+Automate testing
+Early testing
+Employ quality assurance procedures
+Great communication
+Documentation
+Ensure effective training
+Implement quality controls from the beginning
+Performance testing
+Bug tracking and reporting
+Code checks
+Continuous monitoring
+Create a quality management plan
+
+
+Why is it important to maintain high standards?
+
+Maintaining high standards ensure the delivery of high quality software product that meets the users need 
+Also high standard eevates the overall quality of work and fosters a culture of excellence.
+
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?

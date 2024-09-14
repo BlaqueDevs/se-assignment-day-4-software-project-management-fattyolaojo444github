@@ -9,6 +9,15 @@ ii. It is a method of mitigating risks
 iii. It saving costs
 iv. It is a means of improving communication between developers, clients, project manager and all stakeholders involve.
 v. it provides the development team a competitive advantage
+vi. It builds customer loyalty
+vii. It also improves brand value in the market. 
+
+ How to meet deadline 
+ The project manager should know the strengths and weaknesses of your team. ...
+Document the scope of the project before  start.
+Set goals within realistic timelines. 
+Ensuring team members understand schedules and deadlines before launch. 
+The use of collaboration tools.
 
 ## 2. How does effective cost control ctribute to the success of a software project? What strategies can be used to prevent budget overruns?
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?

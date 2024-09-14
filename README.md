@@ -45,6 +45,37 @@ Scope creep
 
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+Agile Methodology
+Overview
+Agile SDLC model is a combination of iterative and incremental process models with focus on process adaptability and customer satisfaction by rapid delivery of working software product. Agile Methods break the product into small incremental builds. These builds are provided in iterations. Each iteration typically lasts from about one to three weeks.
+Advantages
+Flexibility: Agile’s iterative nature allows for changes in requirements and priorities, making it ideal for dynamic environments.
+Customer Involvement: Continuous customer feedback ensures that the product aligns closely with user needs.
+Early and Frequent Delivery: Regular releases mean that the product can be launched earlier with core features, and additional features can be added in subsequent iterations.
+Disadvantages
+Less Predictability: Agile can be less predictable in terms of time and cost since requirements may evolve.
+Scope Creep: The flexibility to incorporate changes can lead to scope creep if not managed carefully.
+Documentation: Minimal documentation can make it harder to onboard new team members or manage knowledge transfer.
+
+Waterfall Methodology
+Overview
+The Waterfall process is a step-by-step development and project management process. As the name suggests, this model follows a straight path where each step (like planning, designing, building, testing, and launching) needs to be finished before moving to the next. This approach works well for projects where all the steps are clear from the beginning.
+It is known has WATERFALL MODEL because of the cascade from one phase to another.
+The waterfall model is an example of a plan-driven process—in principle, you must plan and schedule all of the process activities before starting work on them.
+
+Advantages
+Clear Structure: The sequential nature provides a clear and structured approach, making it easier to manage large teams.
+Well-Defined Requirements: Suitable when requirements are clear, well-understood, and unlikely to change.
+Ease of Management: Project progress is straightforward to track, with clear milestones and deliverables.
+Disadvantages
+No working software is produced until late during the life cycle.
+High amounts of risk and uncertainty.
+
+Not a good model for complex and object-oriented projects.
+Poor model for long and ongoing projects.
+Not suitable for the projects where requirements are at a moderate to high risk of changing. So, risk and uncertainty is high with this process model.
+Customer Feedback: Limited opportunities for customer feedback during development, which can lead to a product that doesn’t fully meet user needs.
+
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 I.
